@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="{{ asset('css/bootstrap-grid.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/carbon-components.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/dark-ui.min.css') }}">
 </head>
 <body>
     <div class="container">
